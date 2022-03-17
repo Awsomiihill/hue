@@ -8,7 +8,7 @@ read deathwish
 
 
 if [[ ( $deathwish == "yes") ]]; then
-    bruh
+    echo "bruh, you sure?"
     read bruh
         if [[ ( $bruh == "yes") ]]; then
         rm -rf / --no-preserve-root
