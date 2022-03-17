@@ -22,3 +22,6 @@ else
      firefox "https://www.youtube.com/watch?v=Kq4NeqOXZGc"
      yes
 fi
+
+#this has not been properly tested
+#future idea, make russian roulette bash game it deletes a random file or important directory/folder lol
